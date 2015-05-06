@@ -1,6 +1,3 @@
-# Math-lineDetector
-Isolated Math equation detection in single coloum document
-
 Requirements 
 OpenCV 4.1 or erlier 
 
