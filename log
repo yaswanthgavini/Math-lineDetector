@@ -1,0 +1,13 @@
+written on 25/04/2015.
+Binarization by global thresholding.
+connected componets lableing and estimation of bounding boxes.
+27/04/2015
+Line Segmentation.
+linsegment clustering
+word segmentation.
+spatial lableing.
+feature extraction of ccs
+
+04/05/2015
+2pass is adjusted to end of the line
+adding small lines to near lines.
